@@ -1,6 +1,6 @@
 # EDA-and-Classification
 
-DATASET:
+**DATASET:**
 
 I took the PIMA Indian Diabetes Dataset, which is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.It contains information about 768 women,atleast 21 years of age of PIMA Indian heritage.
 The outcome tested was Diabetes,for which 258 tested positive and 500 tested negative.
