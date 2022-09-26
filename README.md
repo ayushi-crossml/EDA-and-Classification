@@ -17,13 +17,17 @@ I treated missing values by various methods including mean(for normal data), med
 
 I plotted various plots such as -
 
-(i)correlation matrix(to check for correlation between each pair of variabes)
+(i)Correlation matrix(to check for correlation between each pair of variabes)
 
-(ii)pairplots (to see both distribution of single variables and relationships between two variables )
+(ii)histogram (to see distribution of each variable)
 
-(iii)line plots(
-bar graphs , 
-joint plots for data visualization and a better understanding of data
+(iii)Pairplots (to see both distribution of single variables and relationships between two variables )
+
+(iv)Line plots(for displaying data using a number line)
+
+(v)Bar graphs (to compare the data)
+
+(vi)Joint plots for data visualization and a better understanding of data
 
 **PREDICTION:**
 
