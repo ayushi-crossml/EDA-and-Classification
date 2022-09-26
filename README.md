@@ -7,7 +7,7 @@ The outcome tested was Diabetes,for which 258 tested positive and 500 tested neg
 
 TREATING MISSING VALUES:
 
-I trated missing values by various methods including mean, median ,KNN imputer and then trated outliers 
+I trated missing values by various methods including mean, median ,KNN imputer and then treated outliers 
 
 DATA VISUALIZATION:
 
