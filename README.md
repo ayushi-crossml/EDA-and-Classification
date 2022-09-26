@@ -16,8 +16,11 @@ I treated missing values by various methods including mean(for normal data), med
 **DATA VISUALIZATION:**
 
 I plotted various plots such as -
+
 (i)correlation matrix(to check for correlation between each pair of variabes)
+
 (ii)pairplots (to see both distribution of single variables and relationships between two variables )
+
 (iii)line plots(
 bar graphs , 
 joint plots for data visualization and a better understanding of data
