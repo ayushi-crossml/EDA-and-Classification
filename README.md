@@ -29,7 +29,9 @@ I plotted various plots such as -
 
 (vi)Joint plots for data visualization and a better understanding of data
 
-**PREDICTION:**
+**CLASSIFICATION:**
 
-For fitting the model, i used Grid Search CV for 5 models and chose the model with the best accuracy as the final model
+Checked for importance of each feature using Extra Tree Regressor and applied PCA for dimensionality reduction 
+
+For fitting the model, i used Grid Search CV to check for best model (out of logistic regression ,SVM, Gradient Boost , Rabdom forest and Decision Tree classifier ) and best parameters  and chose the model with the best accuracy(Random Forest Classifier) as the final model
 
